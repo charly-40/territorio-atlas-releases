@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "build": 2,
-  "mandatory": 0,
+  "mandatory": 1,
   "title": "Nueva versión de Territorio Atlas",
   "message": "Hay una nueva versión disponible.",
   "releaseTag": "v1.0.1",
