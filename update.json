@@ -5,6 +5,5 @@
   "title": "Nueva versión de Territorio Atlas",
   "message": "Hay una nueva versión disponible.",
   "releaseTag": "v1.0.1",
-  "apkAsset": "TerritorioAtlas.apk",
-  "sha256": "9b7c146b323115a79e01e92fcef34bbca967e38f76942c940c7b1917281cd035"
+  "apkAsset": "TerritorioAtlas.apk"
 }
