@@ -1,9 +1,10 @@
 {
-  "version": "1.0.2",
-  "build": 3,
+  "version": "1.0.3",
+  "build": 4,
   "mandatory": 1,
   "title": "Nueva versión de Territorio Atlas",
   "message": "Hay una nueva versión disponible.",
-  "releaseTag": "v1.0.2",
+  "releaseTag": "v1.0.3",
   "apkAsset": "TerritorioAtlas.apk"
 }
+
